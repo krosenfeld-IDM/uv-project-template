@@ -1,0 +1,10 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Your description here"
+authors = [{ name="Your name"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+# license = {file = "LICENSE"}
